@@ -1,0 +1,11 @@
+a char*
+f float
+i int
+l long
+ll long long
+us unsigned short
+u unsigned
+ul unsigned long
+ull unsigned long long
+d double
+ld long double
